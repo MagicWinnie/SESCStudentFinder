@@ -1,0 +1,6 @@
+.vscode/
+.csv_classes/
+*.csv
+*.json
+*.xlsx
+*.log
