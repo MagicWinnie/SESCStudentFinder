@@ -4,3 +4,4 @@
 *.json
 *.xlsx
 *.log
+fix_codecs.py
