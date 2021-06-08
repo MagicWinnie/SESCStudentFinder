@@ -33,4 +33,4 @@
 8. `python extract_features.py`  
    It creates a `dataset_faces.dat` file with face encodings.
 9.  `python find_person.py`  
-   An GUI application to find people.
+   A GUI application to find people.
